@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="elegant-csv-numbertheory",
+    name="elegant-csv",
     author="JP Etcheber",
     author_email="jetcheber@gmail.com",
     description="A helper for CSV filess",
